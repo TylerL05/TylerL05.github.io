@@ -1,0 +1,14 @@
+h1 {
+    color:blue
+}
+
+body {
+    background-color: #eec494
+}
+#content {
+    color: red;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
